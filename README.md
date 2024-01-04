@@ -1,11 +1,12 @@
 ### Hi there 👋
-- 🎯 Focused on learning everything about Web/Mobile Development.
-- 🥇 Learning HTML, CSS, JavaScript and React.
+- 🎯 I'm currently looking for work.
+- 🥇 I'm Interested in full stack. Recent focus on backend.
 - 📫 How to reach me: hugofanes@hotmail.com
 - 📘 Linkedin - https://www.linkedin.com/in/hugofanes/
  <div>
   <a href="https://github.com/Hfanes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hfanes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-five-brown-38.vercel.app/api?username=Hfanes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hfanes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
