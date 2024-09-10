@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🎯 I'm currently looking for work.
-- 🥇 I'm Interested in full stack. Recent focus on backend.
+- 🥇 I'm Interested in full stack.
+- 📚 I speak Portuguese, English, Spanish and learning French.
 - 📫 How to reach me: hugofanes@hotmail.com
 - 📘 Linkedin - https://www.linkedin.com/in/hugofanes/
  <div>
