@@ -16,9 +16,9 @@ Hi there 👋
   ![](https://github-readme-stats.vercel.app/api?username=Hfanes&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
   <br/>
   <!---<![](https://github-readme-streak-stats.herokuapp.com/?user=Hfanes&theme=shades-of-purple&hide_border=false)<br/>-->
-
-
-  ## 📊 Languages/Frameworks:
+  
+  #
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg">
@@ -30,9 +30,10 @@ Hi there 👋
   <img align="center" alt="nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
 
-##
 
 ## 📫Contact me 🤞🏻!
 
