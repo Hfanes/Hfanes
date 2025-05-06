@@ -3,7 +3,7 @@
 Hi there 👋
 - 🎯 I'm currently looking for work.
 - 🥇 I'm Interested in full stack.
-- 📚 I speak Portuguese, English, Spanish and learning French.
+- 📚 I speak Portuguese, English, Spanish.
 - 📫 How to reach me: anesfh@gmail.com
 - 📘 Linkedin - https://www.linkedin.com/in/hugofanes/
 
@@ -23,6 +23,7 @@ Hi there 👋
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
