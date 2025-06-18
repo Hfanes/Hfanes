@@ -9,14 +9,16 @@ Hi there 👋
 
 
   <!---<img height="180em" src="https://github-readme-stats-five-brown-38.vercel.app/api?username=Hfanes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>-->
+<!-- 
 ## 📊 GitHub Stats:
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hfanes&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
   <br/>
   ![](https://github-readme-stats.vercel.app/api?username=Hfanes&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
   <br/>
+  -->
   <!---<![](https://github-readme-streak-stats.herokuapp.com/?user=Hfanes&theme=shades-of-purple&hide_border=false)<br/>-->
-  
+
   #
   
 <div style="display: inline_block"><br>
